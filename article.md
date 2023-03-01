@@ -37,7 +37,7 @@ Mosaicでは画像表示で革新を見せたマーク達でしたが、Netscape
 
 ## 第一次ブラウザー戦争
 
-これを面白く思わなかったのがMicrosoftです。
+ここで勝負を仕掛けてきたのがMicrosoftです。
 IT業界の潮流に目ざといMicrosoftは、「次に来るのはインターネットだ！」と予想。
 NCSA Mosaicのライセンス製品の1つだった「Spyglass Mosaic」の権利を買い取り、「Internet Explorer」のブランド名を付け、開発リソースをつぎ込んで、やがてWindows 95の追加パッケージの一部して配布し始めました。
 これが1995年のことです。
