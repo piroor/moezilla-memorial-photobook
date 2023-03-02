@@ -611,8 +611,10 @@ Web標準技術仕様が発展していくに連れ、それへの対応を進�
 
 EdgeはMicrosoftにとっては自社製OSに欠かせない製品なのだから、レンダリングエンジンを他者に委ねる判断はしないだろう……と思われていただけに、EdgeHTMLの開発終了決定は業界関係者にとって衝撃的なニュースでした。
 
-なお、現在のWeb標準技術仕様を策定しているWHATWG（Web Hypertext Application Technology Working Group）では、新しい技術仕様が「Web標準」として認められるためには、最低3つのブラウザー実装が対応している必要があります。
+なお、現在のWeb標準技術仕様を策定しているWHATWG[^whatwg]では、新しい技術仕様が「Web標準」として認められるためには、最低3つのブラウザー実装が対応している必要があります。
 Mozilla Foundationには現在でも広告収入の形でGoogleから資金が流れている背景には、EdgeHTMLが終了した今Geckoが失われてしまっては、せっかく新しい技術仕様を提案しても「Web標準」とは認めてもらえなくなってしまうからだとも言われています。
+
+[^whatwg]: Web Hypertext Application Technology Working Groupの略。
 
 ----
 
