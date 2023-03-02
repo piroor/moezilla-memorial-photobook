@@ -574,8 +574,10 @@ Mozillaの開発チームと外部の拡張機能開発者達とで連携して�
 XULアドオンの廃止以後、Firefoxの改善はそれ以前の遅れを取り戻すように急ピッチで進みます。
 
 UIの実装においては、Mozilla独自の仕様を使っていた部分のWeb標準技術への置き換えが進みました。
-Mozillaブラウザーが開発され始めた当初、ニーズに合うWeb標準仕様が無かったことからMozillaでは独自にXULやXBL（XML Binding Language）といった仕様を作り利用していましたが、これらのことはそのまま開発への参加の障壁にもなっていました。
+Mozillaブラウザーが開発され始めた当初、ニーズに合うWeb標準仕様が無かったことからMozillaでは独自にXULやXBL[^xbl]といった仕様を作り利用していましたが、これらのことはそのまま開発への参加の障壁にもなっていました。
 Webの進歩の中でHTMLの仕様が拡張されたり、カスタム要素を実装する仕様としてWebComponentsが整備されたりしたことを踏まえ、それらの独自仕様を相当する最新のWeb標準技術に置き換えていくことにより、Firefoxの開発に参加するハードルが引き下げられました。
+
+[^xbl]: XML Binding Languageの略。今で言うShadow DOMを実現する仕様でした。
 
 また性能面では、CSSのスタイル指定のレンダリング処理を効率化する[Quantum CSS（Stylo）](https://postd.cc/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)、3Dゲームエンジンの実装に使われる手法を応用したパイプライン処理によって画面描画のフレームレートを劇的に改善する[WebRender](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)など、Geckoとは別ラインで実験的に開発されていた新レンダリングエンジン「Servo」[^servo]の成果が続々とGeckoに取り込まれました。
 これらの改善もあってか、常用していて「重い」と感じない程度の性能は実現されていると筆者は感じていますが、とはいえ2023年2月時点では各種ベンチマークが示す数字としてはChromeが依然最速で、Firefoxは後塵を拝しているのが実情です。
