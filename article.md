@@ -60,9 +60,10 @@ IEとWindowsは一体の物なのだから、Windowsに最初からIEが入っ�
 
 話をNetscapeに戻します。
 1996年頃、当時のPCのOSとしてはMS-DOSからの流れの後継であった「Windows 95」が主流で、1台のPCを複数人で使うのにユーザーアカウントの切り替えなんかできませんでした。
-社内LANでWindows機同士を連携させてユーザーアカウントを集中管理できる「Windows NT」（後のWindows 2000、そしてWindows XPに至る製品ライン）は存在していたものの、一般ユーザーや普通の会社にはまだまだ普及していませんし、Active Directoryなんて影も形もありません[^nt-domain]。
+社内LANでWindows機同士を連携させてユーザーアカウントを集中管理できる「Windows NT」[^nt]は存在していたものの、一般ユーザーや普通の会社にはまだまだ普及していませんし、Active Directoryなんて影も形もありません[^nt-domain]。
 この時期Netscape社は、「Webブラウザー製品のNetscape社」から「ネットワークを使ったビジネスソリューションのNetscape社」へと、事業の幅を広げます。
 
+[^nt]: 後のWindows 2000、そしてWindows XPに至る製品ライン。当初はWindows 9xがコンシューマー向け、Windows NTがビジネス向けという分け方になっていましたが、Windows 9x系はWindows Meを最後に終了し、Windows XPからはコンシューマー向けもWindows NT系列に一本化されました。
 [^nt-domain]: 当時はその前身として「NTドメイン」がようやく登場した段階でした。
 
 そういう背景でNetscape社が打ち出した、大量のユーザー情報を管理する企業向けサーバー製品「Netscape Directory Server」。
