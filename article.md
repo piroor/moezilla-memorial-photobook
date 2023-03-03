@@ -475,7 +475,7 @@ Mozillaの場合は、インタープリタでの実行を監視して統計情�
 それ以外にもV8には様々な高速化・最適化技術が投入された結果、V8は当時のJavaScript実行エンジンの中で飛び抜けた高性能を誇りました。
 これもまた、Chromeが人気を集める大きな理由となりました[^baseline-jit]。
 
-[^baseline-jit]: 後にはMozillaもBaseline JITを導入しました。
+[^baseline-jit]: 後にはMozillaもBaseline JITを導入し、Tracing JITとの併用でさらなる高速化を目指すことになります。
 
 
 ## ラピッドリリースへの移行とESR
