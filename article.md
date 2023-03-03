@@ -471,7 +471,7 @@ GoogleがChromeのV8エンジンで採用したのは、そういった個別の
 [^baseline-jit]: 後にはMozillaもBaseline JITを導入し、Tracing JITとの併用でさらなる高速化を目指すことになります。
 
 JIT以外にもV8には様々な高速化・最適化技術が投入されており、V8は当時のJavaScript実行エンジンの中で飛び抜けた高性能を誇りました。
-これもまた、Chromeが人気を集める大きな理由となりました[^baseline-jit]。
+これもまた、Chromeが人気を集める大きな理由となりました。
 
 
 ## ラピッドリリースへの移行とESR
