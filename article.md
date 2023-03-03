@@ -55,7 +55,7 @@ NCSA Mosaicのライセンス製品の1つだった「Spyglass Mosaic」の権�
 
 IE2まではせいぜいおまけレベルの出来でしたが、相次ぐ改良により、IE3ではNetscape Navigator 3に比肩しうるようになります。
 そして1997年、Microsoftが次の一手としてIE4で打ち出したのが「IEとWindowsの統合」でした。
-IEとWindowsは一体の物なのだから、Windowsに最初からIEが入っているのは致し方ない、という理屈でWindowsへのIEの同　梱を正当化。
+IEとWindowsは一体の物なのだから、Windowsに最初からIEが入っているのは致し方ない、という理屈でWindowsへのIEの同梱を正当化。
 最初からIEが入っているのなら、ユーザーはわざわざ自分でNetscape製品を買ってきてインストールするまでもありません。
 こうして、Microsoftは純粋な性能・機能での勝負でも、それ以外の搦め手でも、Netscapeの牙城を崩していくのでした。
 この頃のNetscape NavigatorとIEの激しいシェア争いは、「第一次ブラウザー戦争」と呼ばれています。
