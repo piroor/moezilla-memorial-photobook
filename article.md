@@ -669,7 +669,7 @@ Webの進歩の中でHTMLの仕様が拡張されたり、カスタム要素を�
 また性能面では、CSSのスタイル指定のレンダリング処理を効率化する[Quantum CSS（Stylo）](https://postd.cc/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)、3Dゲームエンジンの実装に使われる手法を応用したパイプライン処理によって画面描画のフレームレートを劇的に改善する[WebRender](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)など、Geckoとは別ラインで実験的に開発されていた新レンダリングエンジン「Servo」[^servo]の成果が続々とGeckoに取り込まれました。
 これらの改善もあってか、常用していて「重い」と感じない程度の性能は実現されていると筆者は感じていますが、とはいえ2023年2月時点では各種ベンチマークが示す数字としてはChromeが依然最速で、Firefoxは後塵を拝しているのが実情です。
 
-[^servo]: Servoの開発にあたり、Mozillaはメモリーの取り扱いが元での脆弱性発生の温床となっていたC/C++を代替するための新しい言語「Rust」を開発までしました。後にServoとRustの開発プロジェクトはMozillaから切り離され、ServoはLinux Foundation傘下のプロジェクト、Rustは独立したコミュニティによる開発プロジェクトとなっています。
+[^servo]: Servoの開発には、それ以前からMozilla内で実験的に開発されていた、メモリーの取り扱いが元での脆弱性発生の温床となっていたC/C++を代替するための新しい言語「Rust」が使われることとなり、Servoの開発の進展とともにRust自体も開発が進んでいきました。後にServoとRustの開発プロジェクトはMozillaから切り離され、ServoはLinux Foundation傘下のプロジェクト、Rustは独立したコミュニティによる開発プロジェクトとなっています。
 
 MozillaとGoogleの開発リソース量には大きな開きがあり、性能面で真っ向勝負を挑んでも勝ち目は薄いです。
 そのためMozillaは、非営利の組織の立場から「利益ではなく、ユーザーのためのインターネット」を旗印に掲げ、Googleがビジネス上の要請により応えられないニーズを掬い取る[^manifest-v3]ことで生き残りを図ろうとしています。
