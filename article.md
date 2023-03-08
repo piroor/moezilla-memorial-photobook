@@ -543,7 +543,7 @@ iOSやAndroid、Windows Mobileなどが採用する、ネイティブアプリ�
 Mozillaはモバイル端末用OSの開発から完全に撤退することになります[^kaios]。
 ただでさえ開発リソースが限られていたMozillaの、少なくないエネルギーを振り分けていたFirefox OSプロジェクトが失敗に終わったことは、Mozillaにとって大きな痛手となりました。
 
-[^kaios]: MozillaによるFirefox OSの開発は終了しましたが、Firefox OSのコードベースは派生プロジェクト「KaiOS」に引き継がれて開発が継続しています。KaiOSはNokiaのエントリークラスの携帯端末に採用され、インド地域などにおいてiOSに並ぶシェアを得ているようです。
+[^kaios]: MozillaによるFirefox OSの開発が終了した後、Firefox OSのコードベースは派生プロジェクト「KaiOS」に引き継がれました。KaiOSは格安の端末のOSS開発として使われたことで、2019年頃にはインド地域などにおいてiOSに並ぶシェアを得ていましたが、2023年現在は大きなシェアの獲得には至っていないようです。
 
 
 ## Bootstrapped Extensions、Jetpack、そしてWebExtensions
