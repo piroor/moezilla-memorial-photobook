@@ -41,61 +41,66 @@ Mosiacを上回る性能を持つ彼らの新製品のWebブラウザーには�
 [^godzilla]: 東宝の怪獣映画「ゴジラ」の英語表記。
 
 「Mozillaブラウザー」の開発を進めていた彼らでしたが、しかし「Mosaic」の名前の権利もNCSAが持っていたことから訴訟を起こされ、早々に社名変更を余儀なくされます。
-新社名は「Netscape Communications」となり、リリースする製品も新社名に基づいてブランディングするために、「Mozilla」の名はあくまで内輪の製品コードネームとして生き続けるに留まることとなりました。
+新社名は「Netscape Communications」となり、リリースする製品も新社名に基づいてブランディングするため、「Mozilla」の名はあくまで内輪の製品コードネームとして生き続けるに留まることとなりました。
 
-そうして開発されたNetscape社の商用製品のWebブラウザー「Netscape Navigator」は、有償での販売ながら、性能的にも表現力的にもMosaicを上回っていたことから大人気となります。
-Mosaicでは画像表示で革新を見せたマーク達でしたが、Netscape Navigatorでは「Javaアプレット」や「JavaScript」の埋め込みを可能にし、静的なコンテンツだけだったWebに動的なコンテンツを持ち込みました。
-また、当時はまだ物珍しかった「インターネット上での商取引」にもNetscapeは目を付け、電子署名と暗号化通信の技術であるSSL[^ssl]をブラウザーに組み込んで、Amazon.comのようなeコマースも可能にしました。
-こうして「インターネットといえばNetscape」と言えるほどの状況にまでなり、この快進撃は「Netscape Navigator 3」「Netscape Navigator 4」を経て「Netscape Communicator 4」まで続きます。
+そうして開発されたNetscape社の商用製品のWebブラウザー「Netscape Navigator」は、有償での販売ながら、性能的にも表現力的にもMosaicを大きく上回っていたことから大人気となります。
+Mosaicでは画像表示で革新を見せたマーク達でしたが、Netscape Navigatorでは「Javaアプレット」や「JavaScript」の埋め込みを可能にし、静的なコンテンツだけだったWebに動的なコンテンツを持ち込むことになりました。
+しかし、彼らのビジネスは「高性能なWebブラウザーの開発・販売」だけには留まりませんでした。
+
+Netscapeは当時まだ物珍しかった「インターネット上での商取引」に目を付け、Amazon.comのようなeコマースを安全に行う上で求められていた、電子署名と暗号化通信の技術であるSSL[^ssl]を開発。
+自社製ブラウザーに組み込んだ上で、それと対になるSSL対応のWebサーバー製品「Netscape NetSite Web Server」[^netscape-web-server]も併せて開発し、企業向けに売り込みました。
+こうして、Netscapeはブラウザーとサーバーの両面からWebに大きな影響を及ぼすようになり、「インターネットといえばNetscape」と言えるほどの大成功に至ります。
 
 [^ssl]: Secure Socket Layerの略。今のTLS（Transport Layer Security）。
+[^netscape-web-server]: Apache HTTP ServerやNginxなどの無料で使えるWebサーバーが普及し、MicrosoftのIISもWindows Serverの無料のオプション扱いになっている今からすれば驚きかもしれませんが、当時は、WebサイトをホスティングするためのWebサーバー・ソフトウェア自体を開発・販売すること自体がビジネスとして成立する時代でした。
 
 
 ## 第一次ブラウザー戦争
 
-ここで勝負を仕掛けてきたのがMicrosoftです。
-IT業界の潮流に目ざといMicrosoftは、「次に来るのはインターネットだ！」と予想。
-NCSA Mosaicのライセンス製品の1つだった「Spyglass Mosaic」の権利を買い取り、「Internet Explorer」のブランド名を付け、開発リソースをつぎ込んで、やがてWindows 95の追加パッケージの一部として配布し始めました。
+大成功していたNetscapeを追う形で、「うちが次に獲るべき領域はインターネットだ！」と参入してきたのがMicrosoftです。
+彼らはNCSA Mosaicのライセンスを販売していたSpyglass社からライセンスを買って開発した自社のWebブラウザーに、「Internet Explorer」のブランド名を付けて開発リソースをつぎ込み、やがてWindows 95の追加パッケージの一部として販売し始めました。
 これが1995年のことです。
-
-IE2まではせいぜいおまけレベルの出来でしたが、相次ぐ改良により、IE3ではNetscape Navigator 3に比肩しうるようになります。
-そして1997年、Microsoftが次の一手としてIE4で打ち出したのが「IEとWindowsの統合」でした。
-IEとWindowsは一体の物なのだから、Windowsに最初からIEが入っているのは致し方ない、という理屈でWindowsへのIEの同梱を正当化。
-最初からIEが入っているのなら、ユーザーはわざわざ自分でNetscape製品を買ってきてインストールするまでもありません。
-こうして、Microsoftは純粋な性能・機能での勝負でも、それ以外の搦め手でも、Netscapeの牙城を崩していくのでした。
-この頃のNetscape NavigatorとIEの激しいシェア争いは、「第一次ブラウザー戦争」と呼ばれています。
+後の世に言う「第一次ブラウザー戦争」が幕を開けた瞬間でした。
 
 
-話をNetscapeに戻します。
-1996年頃、当時のPCのOSとしてはMS-DOSからの流れの後継であった「Windows 95」が主流で、1台のPCを複数人で使うのにユーザーアカウントの切り替えなんかできませんでした。
+話をまたNetscapeに戻します。
+クライアント向けブラウザー製品と企業向けサーバー製品を事業の2本柱として歩み始めたNetscape社は、Web以外のサーバー製品事業にも手を広げていきました。
+それと歩調を合わせる形で、Netscape Navigator 3ではメールサーバー製品「Netscape Messaging Server」と組み合わせて使うメールクライアント機能や、Netscapeのブラウザーで表示するためのWebページを制作するためのHTMLエディター機能を追加した、上位版の「Netscape Navigator 3 Gold Edition」を投入。
+Netscapeのサーバー製品にはブラウザー製品のライセンスもおまけとして付属していたことから、Netscapeのサーバー製品を導入した企業ではNetscape Navigatorを使い放題で、このこともまたNetscapeのシェア拡大につながりました。
+
+また、1996年頃、当時のPCのOSとしてはMS-DOSからの流れの後継であった「Windows 95」が主流で、1台のPCを複数人で使うのにユーザーアカウントの切り替えなんかできませんでした。
 社内LANでWindows機同士を連携させてユーザーアカウントを集中管理できる「Windows NT」[^nt]は存在していたものの、一般ユーザーや普通の会社にはまだまだ普及していませんし、Active Directoryなんて影も形もありません[^nt-domain]。
-この時期Netscape社は、「Webブラウザー製品のNetscape社」から「ネットワークを使ったビジネスソリューションのNetscape社」へと、事業の幅を広げます。
+そこで、大量のユーザー情報を管理する大企業向けディレクトリーサーバー「Netscape Directory Server」や、スケジュール管理の「Netscape Calendar Server」、プロキシーの「Netscape Proxy Server」、認証サーバーの「Netscape Certificate Server」、クライアントPCの設定の配布・管理を行う「Netscape Mission Control Desktop」といった多種多様なサーバー製品群を投入。
+さらに、それらと連携するクライアント製品として「Netscape Navigator Gold Edition」も大幅にリブランディング。
+Webブラウザー「Navigator」を中心として、メールクライアント「Messenger」、HTMLエディター「Composer」に加え、PC上で独自の複数ユーザープロファイル切り替えを可能にする「プロファイルマネージャー」、ディレクトリーサーバーの情報を利用する「アドレス帳」等の機能も統合し、サーバー製品との連携による設定の集中管理機能にも対応した多機能製品の「Netscape Communicator 4」を、新世代のビジネス用クライアント製品として打ち出しました[^netscape-enterprise-business]。
 
 [^nt]: 後のWindows 2000、そしてWindows XPに至る製品ライン。当初はWindows 9xがコンシューマー向け、Windows NTがビジネス向けという分け方になっていましたが、Windows 9x系はWindows Meを最後に終了し、Windows XPからはコンシューマー向けもWindows NT系列に一本化されました。
 [^nt-domain]: 当時はその前身として「NTドメイン」がようやく登場した段階でした。
-
-そういう背景でNetscape社が打ち出した、大量のユーザー情報を管理する企業向けサーバー製品「Netscape Directory Server」。
-それと連携してPC上で独自の複数ユーザープロファイル切り替えを可能にする「プロファイルマネージャー」と、ディレクトリーサーバーが返す情報をそのまま連絡先の一覧として参照できるようにする「アドレス帳」、そのアドレス帳を使ってメールをやり取りするメールクライアント「Messenger」。
-おまけにもう1つ、Webページ作成ツールの「Composer」も。
-これらをWebブラウザー「Navigator」に統合し、サーバー製品との連携による設定の集中管理機能にも対応して、多機能製品としてリブランディングした上位版製品「Netscape Communicator 4」。
-サーバー製品と統合クライアント製品の2つを武器にした、法人向けのビジネスです[^netscape-enterprise-business]。
-
-[^netscape-enterprise-business]: これはある程度の成功を収めたようで、日本でも、名の知れた大企業で十数年前までNetscapeのサーバー製品が稼働していて、筆者はそのリプレースに少しだけ関わりました。
+[^netscape-enterprise-business]: この「統合クライアント製品を前提とした企業向けサーバー製品ビジネス」はある程度の成功を収めたようで、日本でも、名の知れた大企業で2010年近くまでNetscapeのサーバー製品が稼働していて、筆者はそのリプレースに少しだけ関わりました。
 
 
-しかし、既に述べたとおり、Microsoftも黙って見ていたわけではありません。
-Windows 9xのマルチユーザー対応、NTドメインによるユーザー情報と設定の集中管理、IE4のWindowsへの統合による無償同梱、メールクライアントとしてのOutlook Expressの無償提供と、Microsoftもまた同じ戦場でのビジネスを展開していきます。
-特にIEの無償提供・Windowsへの同梱は、「OSベンダーとしての地位を利用して競合製品を不当に排除する物だ」として、後に独占禁止法に基づく訴訟にも繋がりましたが、最終的にはNetscape社もNetscape Navigator/Communicatorの無償配布に踏み切らざるを得なくなりました。
-Microsoftはその後も順調に製品の改良を続け[^improvement-while-browser-war]、IE5、IE6とバージョンを重ねていきます。
+一方のIEはというと、IE2まではせいぜいおまけレベルの出来でしたが、相次ぐ改良により、IE3ではNetscape Navigator 3に比肩しうるようになります。
+しかし市場ではまだまだNetscapeのブラウザーのシェアが大きく、ブラウザーとサーバーの両面を牛耳りたいMicrosoftにとっては歯がゆい状況が続いていました。
+そこで1997年、Microsoftが次の一手として打ち出したのが「IE4とWindowsの統合、各種サーバー製品の無償化」でした。
+
+この頃Microsoftは、Windows 9xのマルチユーザー対応、NTドメインによるユーザー情報と設定の集中管理など、大企業向けにWindowsの強化を進めていました。
+また、Webサーバー「IIS」やメールサーバー「Exchange Server」といったサーバー製品、メールクライアント「Outlook」など、製品ラインナップも拡大していました。
+これらを武器に、「Windows Serverのライセンスを買いさえすれば、そのオプション機能としてIISもExchange Serverも使い放題」「Windowsのライセンスを買いさえすれば、その機能の一部としてIEもOutlook Expressも無償で使える」といった形で、クライアント領域でもサーバー領域でもシェアをかっさらう戦略を、Microsoftは取ったのです
+
+Windowsに最初からIEやサーバー製品が付いてくるなら、個人ユーザーも企業ユーザーも、わざわざNetscape製品を買ってまで導入する動機はなくなります。
+こういった製品の無償化・Windowsへの同梱は「OSベンダーとしての地位を利用して競合製品を不当に排除する物だ」として、後に独占禁止法に基づく訴訟にも繋がりましたが、シェアの下落をそのまま放置するわけにも行かなかったNetscape社は最終的に、Netscape Communicator 4の全面的な無償配布に踏み切らざるを得なくなりました。
+この頃のNetscapeとMicrosoftのブラウザー製品領域での激しいシェア争いは、「第一次ブラウザー戦争」と呼ばれています。
+
+
+こうした搦め手を取る一方で、Microsoftは純粋な性能・機能の面でも順調に製品の改良を続け、IEはIE5、IE6とバージョンを重ねていきました。
 両者がしのぎを削る中で、HTMLに基づいたWebページの表現力はどんどん高まっていきました[^dhtml]。
 
-[^improvement-while-browser-war]: 先行する他社からシェアを奪う場面でのMicrosoftの本気には凄まじいものがあります。
 [^dhtml]: 例として、この頃マーケティング的に使われた用語の1つに、プラグインやJavaScript（Microsoftの場合はJScript）を使ってWebページの内容を動的に変化させていく「Dynamic HTML」があります。当時は「Macromedia Shockwave」などによる、紙芝居的な画面の部分部分に音声やインタラクションを付与した「マルチメディアコンテンツ」が流行っており、Dynamic HTMLは、それをそのままWebに持ち込んだような物でした。
 
-Netscapeはというと、肥大化・複雑化したNetscape Navigator/Communicator 4が足枷となり、革新的な性能向上や新機能の搭載といった目に見える革新を示せずにいました。
+Netscapeはというと、Netscape Communicator 4でのコードの肥大化・複雑化が足枷となり、革新的な性能向上や新機能の搭載といった目に見える革新を示せずにいました。
 それどころか、インターネットの利用拡大に伴ってWebページの内容がどんどん複雑化し派手になり、扱うデータ量が増えていった結果、「WebページのHTMLファイル全体が読み込まれるまで何も表示されず、真っ白な画面を眺めて何十秒もただ待たされるだけ」といった、ユーザー体験の悪化が深刻化していました。
-「普通にユーザーとしての肌感覚で、Netscape製品よりIE5やIE6の方が快適だ」ということもあって、Netscape Navigator/Communicator 4はますますシェアを落としていきました。
-新製品「Netscape Communicator 5」の開発は遅々として進まず、状況は悪化の一途です。
+「普通にユーザーとしての肌感覚で、Netscape製品よりIE5やIE6の方が快適だ」ということもあって、Netscape Communicator 4はますますシェアを落としていきました。
+次世代の新製品「Netscape Communicator 5」の開発も遅々として進まず、状況は悪化の一途です。
 
 そして1998年。
 事態の打開を図ったNetscape社は、「まだ開発が進行中だったNetscape Communicator 5のソースコードを公開する」という、起死回生の一手を決断したのでした。
@@ -142,7 +147,7 @@ Netscape Communicator 5のコードは、公開版ではコードネーム「Sea
 
 ## Web標準技術とGeckoエンジン
 
-当初はコンピューターの垣根を越えて情報を共有できると期待されていたWWWでしたが、Netscape NavigatorとIEの熾烈なシェア争いの中での囲い込み戦略によって、Webには「このサイトの閲覧にはIE3以上が必要です」「このサイトはNetscape Navigator 4以降で閲覧してください」といったブラウザー依存のコンテンツが増えていきました。
+当初はコンピューターの垣根を越えて情報を共有できると期待されていたWWWでしたが、Netscape Navigator/CommunicatorとIEの熾烈なシェア争いの中での囲い込み戦略によって、Webには「このサイトの閲覧にはIE3以上が必要です」「このサイトはNetscape Navigator 4以降で閲覧してください」といったブラウザー依存のコンテンツが増えていきました。
 WWWの技術仕様をとりまとめる標準化団体のW3C[^w3c]では、このような状況を改善し「ブラウザの種類を問わず、誰でも（それこそ身障者でも）安定して閲覧・利用できる、ユニバーサルなWeb」を実現するための議論を行い、Netscape NavigatorやIEのその時点での実装を仕様化した部分を含みつつも、さらに先進的な機能をも盛り込んだ、「HTML4」「CSS[^css]2」「DOM[^dom]」「XML[^xml]」などのWeb標準技術仕様を策定していきました。
 
 [^w3c]: World Wide Web Consortiumの略。
@@ -151,7 +156,7 @@ WWWの技術仕様をとりまとめる標準化団体のW3C[^w3c]では、こ�
 [^xml]: Extensible Markup Languageの略。
 
 しかし、実装よりも仕様が先行する形で策定されたこれらの仕様には、「仕様書には記載があっても実際のWebブラウザーでは使えない」機能が多く含まれていました。
-Netscape Navigator 4もIE（Trident）も、名目上はこれらの仕様へ対応していたのですが、実際には仕様通りの振る舞いにならない不具合が多数あり、この当時W3Cの仕様で示された「ユニバーサルなWeb」は、絵に描いた餅と言わざるを得ない状況でした。
+Netscape NavigatorもIE（Trident）も、名目上はこれらの仕様へ対応していたのですが、実際には仕様通りの振る舞いにならない不具合が多数あり、この当時W3Cの仕様で示された「ユニバーサルなWeb」は、絵に描いた餅と言わざるを得ない状況でした。
 
 そこに現れたのがGeckoエンジンです。
 Geckoは当時まだIEの最新バージョンでも対応できていなかった新しいWeb標準技術に対応していて、夢物語と思われがちだったWeb標準仕様を一気に現実へと引き寄せる物でした。
