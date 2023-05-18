@@ -63,7 +63,7 @@ Netscapeは当時まだ物珍しかった「インターネット上での商取
 後の世に言う「第一次ブラウザー戦争」が幕を開けた瞬間でした。
 
 
-話をまたNetscapeに戻します。
+話を一旦Netscapeに戻します。
 クライアント向けブラウザー製品と企業向けサーバー製品を事業の2本柱として歩み始めたNetscape社は、Web以外のサーバー製品事業にも手を広げていきました。
 それと歩調を合わせる形で、Netscape Navigator 3ではメールサーバー製品「Netscape Messaging Server」と組み合わせて使うメールクライアント機能や、Netscapeのブラウザーで表示するためのWebページを制作するためのHTMLエディター機能を追加した、上位版の「Netscape Navigator 3 Gold Edition」を投入。
 Netscapeのサーバー製品にはブラウザー製品のライセンスもおまけとして付属していたことから、Netscapeのサーバー製品を導入した企業ではNetscape Navigatorを使い放題で、このこともまたNetscapeのシェア拡大につながりました。
