@@ -35,7 +35,7 @@ WWWとHTMLは元々論文データベースのために作られたので、Web�
 
 見た目に華やかなWebページを扱えるということでMosaicは大人気になりましたが、マーク氏らの雇い主であったNCSAはMosaicの権利者として[^ncsa-mosaic]、その開発内容にまで様々な口出しをしだしました。
 上司や組織の干渉を嫌ったマーク氏らはNCSAを離れることを決意し、1994年に「Mosaic Communications」として独立・起業。
-Mosiacを上回る性能を持つ彼らの新製品のWebブラウザーには、「Mosaicを打ち倒すもの」として「Mosaic」と「Godzilla[^godzilla]」を組み合わせた「Mozilla」の名が与えられました。
+Mosaicを上回る性能を持つ彼らの新製品のWebブラウザーには、「Mosaicを打ち倒すもの」として「Mosaic」と「Godzilla[^godzilla]」を組み合わせた「Mozilla」の名が与えられました。
 
 [^ncsa-mosaic]: Mosaicは雇用契約の中で開発された物であった事から、NCSAにコードの所有権がある状態でした。
 [^godzilla]: 東宝の怪獣映画「ゴジラ」の英語表記。
