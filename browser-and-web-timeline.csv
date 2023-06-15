@@ -1,0 +1,895 @@
+Date,Misc,CERN,"NCSA
+https://en.wikipedia.org/wiki/Mosaic_(web_browser)","Netscape
+https://en.wikipedia.org/wiki/Netscape_(web_browser)#Release_history",Mozilla,"Firefox
+https://en.wikipedia.org/wiki/Firefox_early_version_history
+https://en.wikipedia.org/wiki/Firefox_version_history","SeaMonkey
+https://en.wikipedia.org/wiki/History_of_Mozilla_Application_Suite
+https://en.wikipedia.org/wiki/SeaMonkey",Waterfox,"Pale Moon
+https://www.palemoon.org/releasenotes-archived.shtml",Flock,Other Gecko-based,"Microsoft
+https://en.wikipedia.org/wiki/Internet_Explorer_version_history
+https://en.wikipedia.org/wiki/Microsoft_Edge","MacIE
+https://en.wikipedia.org/wiki/Internet_Explorer_for_Mac",IEコンポーネントブラウザ,Flash、Web技術,"Opera
+https://en.wikipedia.org/wiki/History_of_the_Opera_web_browser","Vivaldi
+https://en.wikipedia.org/wiki/Vivaldi_(web_browser)","Konqueror
+https://timeline.kde.org/","Apple
+https://en.wikipedia.org/wiki/Safari_version_history","Google
+https://support.google.com/chrome/a/answer/10314655?hl=ja
+https://google.fandom.com/wiki/Chrome_version_history","Brave
+https://en.wikipedia.org/wiki/Brave_(web_browser)#History"
+1989-03-12,,ティム・バーナーズ＝リー、World Wide Webの原型となる提案を発表,,,,,,,,,,,,,,,,,,,
+1990-11-12,,ティム・バーナーズ＝リー、World Wide Webの具体的な仕様の提案書を発表,,,,,,,,,,,,,,,,,,,
+1990-12-20,,ティム・バーナーズ＝リー、世界初のWebページを公開,,,,,,,,,,,,,,,,,,,
+1990-12-25,,"WorldWideWebリリース
+世界最初のWebブラウザー
+https://en.wikipedia.org/wiki/WorldWideWeb",,,,,,,,,,,,,,,,,,,
+1991-05-14,,"Line Mode Browser
+世界で2番目のブラウザー
+https://en.wikipedia.org/wiki/Line_Mode_Browser",,,,,,,,,,,,,,,,,,,
+1992-02-25,,,,,,,,,,,,,,,Macromedia設立,,,,,,
+1992-03-09,"ViolaWWWリリース
+スクリプトやスタイルシートに対応した世界最初のブラウザー
+https://en.wikipedia.org/wiki/ViolaWWW",,,,,,,,,,,,,,,,,,,,
+1992-11-15,,"libwwwリリース
+WorldWideWebを元にしたC言語用ライブラリー
+https://en.wikipedia.org/wiki/Libwww",,,,,,,,,,,,,,,,,,,
+1993-01-23,,,NCSA Mosaic 0.5リリース,,,,,,,,,,,,,,,,,,
+1993-04-22,,,NCSA Mosaic 1.0,,,,,,,,,,,,,,,,,,
+1993-05-12,,"MacWWW（Samba）1.00リリース
+世界最初のMac用ブラウザー
+https://en.wikipedia.org/wiki/MacWWW",,,,,,,,,,,,,,,,,,,
+1993-06-08,"Cello
+世界最初のWindows用ブラウザー
+https://en.wikipedia.org/wiki/Cello_(web_browser)",,,,,,,,,,,,,,,,,,,,
+1994-04-04,,,,"Mosaic Communications設立
+Mosaicの開発者達が独立",,,,,,,,,,,,,,,,,
+1994-05-15,,,,,,,,,,,,Spyglass社、Mosaicのライセンスを取得,,,,,,,,,
+1994-05-15,"Lynx 2.3
+Line Mode Browserから派生",,,,,,,,,,,,,,,,,,,,
+1994-09-04,,,,"Mosaic Netscape 0.4
+最初のパブリックベータ",,,,,,,,,,,,,,,,,
+1994-10-01,,,,,,,,,,,,,,,W3C設立,,,,,,
+1994-11-14,,,,Netscape Communicationsに名称変更,,,,,,,,,,,,,,,,,
+1994-12-15,,,,"Netscape Navigator 1.0
+Cookie",,,,,,,,,,,,,,,,,
+1995-01-15,,,,,,,,,,,,Microsoft社、Spyglass Mosaicのライセンスを取得,,,,,,,,,
+1995-03-06,,,,"Netscape Navigator 1.1
+電子商取引のためのセキュア通信機能としてSSL 2.0に初めて対応",,,,,,,,,,,,,,,,,
+1995-04-10,,,,,,,,,,,,,,,,"MultiTorg Opera 1.0
+タブブラウズの原型となる、MDIによる複数ページの並行ブラウジングに対応",,,,,
+1995-08-24,,,,,,,,,,,,"Internet Explorer 1.0
+Spyglass Mosaicベース",,,,,,,,,
+1995-08-24,,,,,,,,,,,,Windows 95リリース,,,,,,,,,
+1995-09-18,,,,"Netscape Navigator 2.0
+Netscape Mail搭載
+ニュースグループ
+プラグイン機構に対応
+JavaScript
+HTML frames
+SSL 3.0",,,,,,,,,,,,,,,,,
+1995-11-22,,,,,,,,,,,,"Internet Explorer 2.0
+JavaScript（JScript）
+SSL
+Cookie
+HTML frames
+VRML
+ニュースグループ
+Windows 95 OSR1およびInternet Starter Kitに同梱",,,,,,,,,
+1996-01-23,,,,,,,,,,,,,"Internet Explorer 2.0 for Macintosh
+Windows版とは独立して開発
+NPAPIプラグイン対応",,,,,,,,
+1996-07-14,,,,,,,,,,,,,,,,"Opera 2.0
+最初の公開版をシェアウェアとして公開",,,,,
+1996-08-13,,,,,,,,,,,,"Internet Explorer 3.0
+ソースコードを全面刷新
+CSS
+AcriveX
+Javaアプレット
+HTTP/1.1
+Windows 95 CSR2に同梱",,,,,,,,,
+1996-08-19,,,,"Netscape Navigator 3.0
+GoldエディションでHTMLエディター搭載
+applet要素",,,,,,,,,,,,,,,,,
+1996-10-14,,,,,,,,,,,,,,,,,,KDEプロジェクト開始,,,
+1996-11-15,,,,,,,,,,,,,,,"Macromedia Shockwave Flash 1.0
+インタラクティブなコンテンツを再生するブラウザー用プラグイン",,,,,,
+1997-01-07,,,,,,,,,,,,,,,,,,,Mac OS 7.6,,
+1997-01-08,,,,,,,,,,,,,"Internet Explorer 3.0 for Macintosh
+HTML 3.2
+CSS
+ActiveX
+Javaアプレット
+SSL
+NTLM",,,,,,,,
+1997-06-11,,,,"Netscape Communicator 4.0
+プロファイルマネージャー
+CSS1部分対応
+JavaScript Style Sheets
+layer要素
+DynamicHTML
+完全無償化",,,,,,,,,,,,,,,,,
+1997-09-30,,,,,,,,,,,,"Internet Explorer 4.0
+レンダリングエンジンTrident（MSHTML）
+Dynamic HTML
+Windows 98に同梱、Windowsと統合
+グループポリシー対応
+HTML4.01
+CSS1完全対応",,,,,,,,,
+1997-12-31,,,,,,,,,,,,,,,,"Opera 3
+JavaScript",,,,,
+1998-01-06,,,,,,,,,,,,,"Internet Explorer 4.0 for Macintosh
+DynamicHTML",,,,,,,,
+1998-01-19,,,,,,,,,,,,,,,,,,,Mac OS 8,,
+1998-01-23,,,,Netscape 5ソースコード公開,Mozilla Organization開始,,,,,,,,,,,,,,,,
+1998-04-14,,,,,"Netscape DevEdge Online Open Studio開設
+広範囲に渡るWeb技術のドキュメントを無償公開",,,,,,,,,,,,,,,,
+1998-06-12,,,,,,,,,,,,,,,,,,KDE 1.0リリース,,,
+1998-06-25,,,,,,,,,,,,Windows 98リリース,,,,,,,,,
+1998-09-04,,,,,,,,,,,,,,,,,,,,"Google Inc.設立
+検索エンジン市場に参入",
+1998-10-19,,,,Netscape Communicator 4.5,,,,,,,,,,,,,,,,,
+1998-11-24,,,,AOLがNetscapeの買収を発表,,,,,,,,,,,,,,,,,
+1999-02-17,"iCab 1.0
+独自エンジンのMac用ブラウザー",,,,,,,,,,,,,,,,,,,,
+1999-03-18,,,,,,,,,,,,"Internet Explorer 5.0
+Windows 98 Second Editionに同梱
+HTMLルビ
+XMLHttpRequest
+MHTML
+XML部分対応
+CSS2部分対応
+DOM1部分対応",,,,,,,,,
+1999-03-19,,,,,,,"Mozilla M3
+最初の開発者向けリリース
+レンダリングエンジンGecko
+JSエンジンSpiderMonkey
+CSS2
+DOM2
+XML
+XSLT",,,,,,,,,,,,,,
+1999-09-30,,,,Netscape Communicator 4.7,,,,,,,,,,,,,,,,,
+1999-10-23,,,,,,,,,,,,,,,,,,,Mac OS 9,,
+1999-11-14,"Amaya 0.9
+W3C公式の独立系ブラウザー兼エディター",,,,,,,,,,,,,,,,,,,,
+2000-02-17,,,,,,,,,,,,Windows 2000リリース,,,,,,,,,
+2000-03-11,,,,,,,,,,,,,,"Donut 1.01リリース
+https://ja.wikipedia.org/wiki/Donut_(%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6)",,,,,,,
+2000-03-27,,,,,,,,,,,,,"Internet Explorer 5 Macintosh Edition
+レンダリングエンジンTasman
+Web標準仕様に高水準で対応",,,,,,,,
+2000-04-15,iCab Preview 2.1,,,,,,,,,,,,,,,,,,,,
+2000-05-29,,,,,,,,,,,,,,"Moon Browser 0.01 Beta1リリース
+https://web.archive.org/web/20011129101328/http://www.geocities.co.jp/SiliconValley-Cupertino/8986/history.txt",,,,,,,
+2000-06-13,,,,,,,,,,,,,,BugBrowser v0.78リリース,,,,,,,
+2000-06-15,,,,,,,,,,,"Galeon 0.6
+Geckoベース",,,,,,,,,,
+2000-06-19,,,,,,,,,,,,"Internet Explorer 5.5
+Windows Meに同梱
+縦書き表示
+CSS2対応強化
+XSLT部分対応",,,,,,,,,
+2000-06-19,,,,,,,,,,,,Windows Me,,,,,,,,,
+2000-06-28,,,,,,,,,,,,,,,,"Opera 4
+CSS
+メールクライアント統合",,,,,
+2000-08-21,,,,,,,,,,,"K-Meleon 0.1
+Gecko M17ベース",,,,,,,,,,
+2000-08-24,,,,,,,,,,,,,,,"Macromedia Flash 5
+ActionScript 1.0",,,,,,
+2000-09-20,,,,,,,,,,,,,,fub.net 0.0.188βリリース,,,,,,,
+2000-10-12,,,,,,,Mozilla M18,,,,,,,,,,,,,,
+2000-10-23,,,,,,,,,,,,,,,,,,"Konqueror 2.0
+KDE2の一部として最初のリリース
+レンダリングエンジンKHTML",,,
+2000-10-23,,,,,,,,,,,,,,,,,,,,"Google AdWordsサービス開始
+収益の大幅な改善により、企業規模が大きく拡大し始める",
+2000-11-14,,,,"Netscape 6
+Mozilla Application Suite 0.6ベース",,,,,,,,,,,,,,,,,
+2000-12-06,,,,,,,,,,,,,,,,"Opera 5
+広告表示による無償利用
+マウスジェスチャー",,,,,
+2000-12-06,,,,,,,Mozilla 0.6,,,,,,,,,,,,,,
+2000-12-11,,,,,,,,,,,,,,,,,,,,"Googleツールバー
+IE5に機能を追加
+検索ボックス
+翻訳
+スペルチェッカー
+ポップアップブロック",
+2000-12-13,,,,,,,,,,,,,,"MDIBrowser 0.5リリース
+https://web.archive.org/web/20050914075629/http://void.in/mdi/mdibrowserhistory2.html",,,,,,,
+2001-03-24,,,,,,,,,,,,,,,,,,,Mac OS X 10.0 Cheetah,,
+2001-07-14,,,,,,,,,,,,,,"Lunascape 0.81リリース
+https://ja.wikipedia.org/wiki/Lunascape",,,,,,,
+2001-08-24,,,,,,,,,,,,"Internet Explorer 6.0
+Windows XPに同梱
+CSS2対応強化
+DOM2部分対応
+SMIL 2.0部分対応",,,,,,,,,
+2001-09-25,,,,,,,,,,,,,,,,,,,Mac OS X 10.1 Puma,,
+2001-10-12,,,,,,,"Mozilla 0.9.5
+タブブラウズ",,,,,,,,,,,,,,
+2001-10-25,,,,,,,,,,,,Windows XPリリース,,,,,,,,,
+2001-11-22,"w3m 0.2.2
+独立系テキストブラウザー",,,,,,,,,,,,,,,,,,,,
+2001-11-26,,,,,,,,,,,,,,KIKI 0.16リリース,,,,,,,
+2001-11-28,,,,,,,,,,,Galeon 1.0,,,,,,,,,,
+2001-11-29,,,,,,,,,,,,,,,,"Opera 6
+日本語表示対応",,,,,
+2001-12-21,,,,,,,"Mozilla 0.9.7
+DOMインスペクター
+XMLHttpRequest",,,,,,,,,,,,,,
+2002-02-08,,,,,,,,,,,,,,"ぶら。 alpha1リリース
+https://web.archive.org/web/20041013092142/http://www.geocities.jp/tabbrowser/",,,,,,,
+2002-02-13,,,,,,,,,,,"Camino 0.1
+Gecko採用のMac OS X用ブラウザー
+ドラッグ＆ドロップによるツールバーカスタマイズ",,,,,,,,,,
+2002-03-11,,,,,,,"Mozilla 0.9.9
+MathML
+SOAP",,,,,,,,,,,,,,
+2002-04-03,,,,,,,,,,,,,,,,,,"Konqueror 3.0
+KDE3の一部としてリリース",,,
+2002-06-05,,,,,,,"Mozilla 1.0
+ポップアップブロック",,,,,,,,,,,,,,
+2002-08-22,,,,Netscape Communicator 4.8,,,,,,,,,,,,,,,,,
+2002-08-24,,,,,,,,,,,,,,,,,,,Mac OS X 10.2 Jaguar,,
+2002-08-29,,,,"Netscape 7
+Mozilla Application Suite 1.0.1ベース",,,,,,,,,,,,,,,,,
+2002-09-09,,,,,,,,,,,,Internet Explorer 6.0SP1,,,,,,,,,
+2002-09-23,,,,,,"Phoenix 0.1
+最初のリリース
+Gecko 1.2ベース
+ドラッグ＆ドロップによるツールバーカスタマイズ（Camion開発者のDave Hyattによる）",,,,,,,,,,,,,,,
+2002-10-09,,,,,,,,,,,,,,"MyIE2 0.5.830リリース
+後のMaxthon",,,,,,,
+2002-12-10,,,,,Netscape DevEdge日本 開設,,,,,,,,,,,,,,,,
+2002-12-12,,,,,,,,,,,,,,Lunascape 1.0,,,,,,,
+2002-12-24,,,,,,,,,,,"Epiphany（GNOME Web） 0.4
+Galeonからフォーク",,,,,,,,,,
+2003-01-07,,,,,,,,,,,,,,,,,,,"Safari 0.8
+最初のパブリックベータ
+レンダリングエンジンWebKit
+JSエンジンJavaScript Core
+ドラッグ＆ドロップによるツールバーカスタマイズ（Camion開発者のDave Hyattによる）",,
+2003-01-28,,,,,,,,,,,,,,,,"Opera 7
+レンダリングエンジンPresto
+Web標準仕様に高水準で対応
+RSSリーダー
+IRCクライアント",,,,,
+2003-01-29,,,,,,,,,,,風博士 0.0.2,,,,,,,,,,
+2003-04-02,,,,,メインラインをPhoenixに切り替えることを公表,,,,,,,,,,,,,,,,
+2003-05-17,,,,,,"Firebird 0.6
+名称変更
+Gecko 1.5ベース
+拡張機能の管理機能",,,,,,,,,,,,,,,
+2003-06-15,,,,AOL Time WarnerがNetscapeの事業終了を公表,,,,,,,,,,,,,,,,,
+2003-06-16,,,,,,,,,,,,,"Internet Explorer 5.2.3 Macintosh Edition
+最終版",,,,,,,,
+2003-06-23,,,,,,,,,,,,,,,,,,,"Safari 1.0
+Mac OS X標準ブラウザー
+タブブラウズ
+ブックマークの同期
+AppleScript",,
+2003-07-18,,,,,Mozilla Foundation設立,,,,,,,,,,,,,,,,
+2003-09-08,,,,,,,,,,,"Epiphany 1.0
+Gecko 1.6ベース",,,,,,,,,,
+2003-10-24,,,,,,,,,,,,,,,,,,,Mac OS X 10.3 Panther,,
+2003-11-18,,,,,,,,,,,,,,,"Macromedia Flash MX 2004（Fash 7）
+ActionScript 2.0",,,,,,
+2004-01-30,,,,,,,,,,,,,,"Avant Browserリリース
+https://en.wikipedia.org/wiki/Avant_Browser",,,,,,,
+2004-02-02,,,,,,,,,,,,,,,,,,,"Safari 1.2
+XMLHttpRequest",,
+2004-02-09,,,,,,"Firefox 0.8
+名称変更
+Gecko 1.6ベース",,,,,,,,,,,,,,,
+2004-04-01,,,,,,,,,,,,,,,,,,,,"Gmailサービス開始
+Web 2.0時代の幕開け",
+2004-04-15,,,,,,,,,,,,,,"Sleipbir 1.00リリース
+https://dic.nicovideo.jp/a/sleipnir",,,,,,,
+2004-06-04,,,,,,,,,,,,,,,"WHATWG設立
+ブラウザーベンダーの立場から仕様の標準化を行うように",,,,,,
+2004-06-17,,,,,,,"Mozilla 1.7
+ダウンロードマネージャ（1.1）
+インクリメンタル検索（1.2）
+リンク先読み（1.2）
+NTLM認証（1.4）
+スペルチェッカー（1.4）
+CSS3 Opacity",,,,,,,,,,,,,,
+2004-07-19,,,,,Mozilla Japan設立,,,,,,,,,,,,,,,,
+2004-08-25,,,,,,,,,,,,"Internet Explorer 6.0SP2
+ポップアップブロック
+ダウンロードファイルの保護
+アドオン管理機能",,,,,,,,,
+2004-10-12,,,,,Netscape DevEdge閉鎖,,,,,,,,,,,,,,,,
+2004-10-14,,,,,,,,,,,,,,,,,,,,Google Desktop 1.0,
+2004-11-09,,,,,,"Firefox 1.0
+Find Toolbar
+Live Bookmark（RSSリーダー機能）",,,,,,,,,,,,,,,
+2005-01-07,,,,,,,,,,,,,,"Lunascape 2.0
+Gecko対応",,,,,,,
+2005-02-08,,,,,,,,,,,,,,,,,,,,Google Mapsサービス開始,
+2005-02-23,,,,,"DevMo
+DevEdgeのコンテンツを引き継ぐ形でプロジェクト開始",,,,,,,,,,,,,,,,
+2005-04-11,,,,,,,,,,"Flock Developer Preview
+FirefoxベースのSNS特化ブラウザーとして公開",,,,,,,,,,,
+2005-04-19,,,,,,,,,,,,,,,,"Opera 8
+ユーザースクリプト
+SVG 1.1 Tiny
+XMLHttpRequest
+完全無償化",,,,,
+2005-04-29,,,,,,,,,,,,,,,,,,,"Safari 2.0
+RSS/Atomリーダー
+PDFビューワー
+プライベートブラウジングモード
+ペアレンタルコントロール
+HTML canvas",,
+2005-04-29,,,,,,,,,,,,,,,,,,,Mac OS X 10.4 Tiger,,
+2005-05-19,,,,"Netscape 8
+Firefox 1.0.3ベース",,,,,,,,,,,,,,,,,
+2005-07-15,,,,,DevMo、Mozilla Developer Center（MCD）へ改称,,,,,,,,,,,,,,,,
+2005-08-03,,,,,Mozilla Corporation設立,,,,,,,,,,,,,,,,
+2005-09-02,,,,,,,,,,,,,,Lunascape 3.0.0,,,,,,,
+2005-10-12,,,,,,,,,,,,,,"Sleipbir 2.00リリース
+マウスジェスチャー",,,,,,,
+2005-11-29,,,,,,"Firefox 1.5
+Gecko 1.8ベース
+HTML canvas
+自動更新
+JavaScript 1.5
+SVG",,,,,,,,,,,,,,,
+2005-12-03,,,,,,,,,,,,,,,Adobe、Macromediaを買収,,,,,,
+2006-01-30,,,,,,,"SeaMonkey 1.0
+SeaMonkey Councilに移管
+Gecko 1.8ベース",,,,,,,,,,,,,,
+2006-02-14,,,,,,,,,,,"Camino 1.0
+Geckoベースの最初のユニバーサルバイナリ対応ブラウザー",,,,,,,,,,
+2006-03-09,,,,,,,,,,,,,,,,,,,,Google Docs & Spreadsheetsサービス開始,
+2006-04-05,,,,,,,,,,,,,,,,,,,,"Googleツールバー 2.0
+Firefoxに機能を追加
+フィッシング防止",
+2006-06-15,,,,,,,,,,,"K-Meleon 1.0
+Gecko 1.8.0.7ベース",,,,,,,,,,
+2006-06-20,,,,,,,,,,,,,,,,"Opera 9
+Acid2テストをパス
+XSLT
+SVG 1.1 Basic
+BitTorrent
+HTML canvas
+フィッシング防止
+ウィジェット",,,,,
+2006-08-17,"iCab 3.0.3
+Acid2テストをパス",,,,,,,,,,,,,,,,,,,,
+2006-08-26,,,,,,,,,,,,,,,"jQuery 1.0
+ブラウザー間の差異を吸収するJavaScriptライブラリー",,,,,,
+2006-10-18,,,,,,,,,,,,"Internet Explorer 7
+タブブラウズ
+フィッシング防止
+Web標準仕様への対応改善
+EV SSL",,,,,,,,,
+2006-10-24,,,,,,"Firefox 2.0
+Gecko 1.8.1ベース
+Google Safe Browsingベースのフィッシング対策
+JavaScript 1.7
+Sherlock/OpenSearch
+セッション復元",,,,,,,,,,,,,,,
+2006-11-21,,,,,,,,,,,,,,Lunascape 4.0.0,,,,,,,
+2007-01-30,,,,,,,,,,,,Windows Vistaリリース,,,,,,,,,
+2007-06-11,,,,,,,,,,,,,,,,,,,"Safari 3.0
+パブリックベータ",,
+2007-06-22,,,,,,,,,,,,,,,"Adobe Flash CS3
+ActionScript 3.0",,,,,,
+2007-06-29,,,,,,,,,,,,,,,,,,,"iPhone発売
+Iphone OS 1.0",,
+2007-09-19,,,,,,,,,,,"Epiphany 2.20
+WebKitベースに移行",,,,,,,,,,
+2007-10-15,,,,"Netscape 9
+Firefox 2.0.0.7ベース",,,,,,,,,,,,,,,,,
+2007-10-26,,,,,,,,,,,,,,,,,,,"Safari 3.0.4
+SVG
+Webクリップ
+Webインスペクター",,
+2007-10-26,,,,,,,,,,,,,,,,,,,Mac OS 10.5 Leopard,,
+2007-11-05,,,,,,,,,,Flock 1.0,,,,,,,,,,,
+2008-01-02,"iCab 4.0
+WebKitベースに移行",,,,,,,,,,,,,,,,,,,,
+2008-01-11,,,,,,,,,,,,,,,,,,"Konqueror 4.0
+KDE4リリース",,,
+2008-02-25,,,,,,,,,,,,,,,"Adobe AIR 1.0
+Flashベースのアプリケーション開発フレームワーク
+Flash Player 9ベース",,,,,,
+2008-03-18,,,,,,,,,,,,,,,,,,,"Safari 3.1
+Web Fonts
+HTML video/audio",,
+2008-04-21,,,,,,,,,,,,Internet Explorer 6.0SP3,,,,,,,,,
+2008-06-12,,,,,,,,,,,,,,,,"Opera 9.5
+スピードダイヤル、ブックマークなどの同期
+履歴からの全文検索
+EV SSL",,,,,
+2008-06-17,,,,,,"Firefox 3.0
+Gecko 1.9ベース
+Acid2テストをパス
+Google Safe Browsingベースのマルウェア対策
+ブックマークと履歴の統合
+スマートロケーションバー
+EV SSL
+APNG",,,,,,,,,,,,,,,
+2008-09-23,,,,,,,,,,,,,,,,,,,,Android 1.0,
+2008-10-22,,,,,,,,,,,,,,,,,,,,"HTC Dream発売
+世界初のAndroid端末",
+2008-10-29,,,,,,,,,,,,,,,,,,,,"Chrome 0.3
+Firefoxの初期開発者達により開発
+スペルチェッカー",
+2008-11-13,,,,,,,,,,,,,,,,,,,"Safari 3.2
+フィッシング防止
+EV SSL",,
+2008-11-17,,,,,,,,,,,,,,,"Adobe AIR 1.5
+Flash Player 10ベース",,,,,,
+2008-12-11,,,,,,,,,,,,,,,,,,,,"Chrome 1.0
+最初の安定版
+JSエンジンV8
+HTML canvas
+ポップアップブロック",
+2009-03-18,,,,,,,,,,,,,,"Lunascape 5.0.0
+WebKit対応",,,,,,,
+2009-03-19,,,,,,,,,,,,"Internet Explorer 8
+Acid2テストをパス
+マルチプロセス化
+セッション復元",,,,,,,,,
+2009-06-03,,,,,,,,,,,,,,,,"Opera 10
+Acid3テストをパス
+Opera Turbo
+Speed Dial",,,,,
+2009-06-08,,,,,,,,,,,,,,,,,,,"Safari 4.0
+Acid3テストをパス
+JavaScriptエンジン刷新
+Top Sites
+Cover Flow",,
+2009-06-30,,,,,,"Firefox 3.5
+Gecko 1.9.1ベース
+HTML video/audio
+TraceMonkeyによるJS高速化
+プライベートブラウジング
+ネイティブJSON
+Web Fonts",,,,,,,,,,,,,,,
+2009-08-28,,,,,,,,,,,,,,,,,,,Mac OS X 10.6 Snow Leopard,,
+2009-09-29,,,,,,,,,,,風博士 0.5.8,,,,,,,,,,
+2009-10-12,,,,,,,,,,,,,,,,,,,,"Chrome 3
+HTML video/audio",
+2009-10-22,,,,,,,,,,,,Windows 7リリース,,,,,,,,,
+2009-10-27,,,,,,,"SeaMonkey 2.0
+Gecko 1.9.1ベース",,,,,,,,,,,,,,
+2009-11-18,,,,,,,,,,,"Camino 2.0
+Acid2テストをパス",,,,,,,,,,
+2009-12-11,,,,,,,,,,,,,,Lunascape Orion 6.0.0,,,,,,,
+2010-01-21,,,,,,"Firefox 3.6
+Gecko 1.9.2ベース
+HTML5 ドラッグ＆ドロップAPI
+プラグインのプロセス分離",,,,,,,,,,,,,,,
+2010-01-25,,,,,,,,,,,,,,,,,,,,"Chrome 4
+拡張機能",
+2010-04-03,,,,,,,,,,,,,,,,,,,iPad発売,,
+2010-06-04,,,,,,,,,,"Flock 3.0
+Chromiumベースに変更",,,,,,,,,,,
+2010-06-07,,,,,,,,,,,,,,,,,,,"Safari 5.0
+拡張機能（5.0.1）
+HTMLルビ（5.0.6）
+リーダー拡張機能",,
+2010-06-10,,,,,,,,,,,,,,,Adobe AIR 2.0.2,,,,,,
+2010-09-15,,,,,MCD、Mozilla Developer Network（MDN）へ改称,,,,,,,,,,,,,,,,
+2010-09-18,,,,,,,,,,,,,,,,,,,"iOS 4.0
+名称変更",,
+2010-11-08,,,,,,,,,,,,"HTC 7 Surround発売
+世界初のWindows Phone 7端末",,,,,,,,,
+2010-12-16,,,,,,,,,,,,,,,,"Opera 11
+HTML video/audio（10.5）
+タブスタッキング
+拡張機能",,,,,
+2011-01-15,w3m 0.5.3,,,,,,,,,,,,,,,,,,,,
+2011-01-27,,,,,,,,,,"Flock 2.6.2
+Firefoxベースの最終版",,,,,,,,,,,
+2011-02-03,,,,,,,,,,,,,,,,,,,,"Chrome (5-)9
+Geolocation API
+Web Sockets
+HTML5 ドラッグ＆ドロップAPI
+Flash統合
+WebM
+PDFビューワー
+File API
+WebGL
+WebP",
+2011-03-14,,,,,,,,,,,,"Internet Explorer 9
+JSエンジンChakra
+ハードウェアアクセラレーション
+HTML5への対応を開始",,,,,,,,,
+2011-03-22,,,,,,"Firefox 4.0
+Gecko 2.0ベース
+JägerMonkeyによるJS高速化
+Do Not Trackヘッダ
+Firefox Sync
+WebGL
+CSS Transition
+Android版提供開始",,,,,,,,,,,,,,,
+2011-03-27,,,,,,,,"Waterfox
+Firefoxの64bit Windows用独自最適化ビルドとしてプロジェクト開始",,,,,,,,,,,,,
+2011-04-26,,,,,,,,,,全バージョンのサポートを終了,,,,,,,,,,,
+2011-06-10,,,,,,,"SeaMonkey 2.1
+Gecko 2.0ベース",,,,,,,,,,,,,,
+2011-06-15,,,,,,,,,,,,,,,,,,,,ChromeOS 1.0,
+2011-07-20,,,,,,,,,,,,,,,,,,,Mac OS X 10.7 Lion,,
+2011-07-20,,,,,,,,,,,,,,,,,,,"Safari 5.1
+WebGL",,
+2011-10-03,,,,,,,,,,,,,,,Adobe AIR 3.0,,,,,,
+2011-11-16,,,,,,,,,,,,,,"Sleipnir 3.0.0
+Gecko対応終了
+WebKit対応",,,,,,,
+2012-01-18,Amaya 11.4.4,,,,,,,,,,,,,,,,,,,,
+2012-01-31,,,,,,,"SeaMonkey 2.7
+Gecko 10ベース",,,,,,,,,,,,,,
+2012-01-31,,,,,,"Firefox 10
+最初のESR版
+FullScreen API",,,,,,,,,,,,,,,
+2012-02-08,,,,,,,,,,,,,,,,,,,,"Chrome (10-)17
+Speech Input API
+Web Audio API
+Native Client（NaCl）
+FullScreen API",
+2012-03-14,,,,,,,,,,,"Camino 2.1.2
+最終版",,,,,,,,,,
+2012-06-14,,,,,,,,,,,,,,,,"Opera 12
+WebGL",,,,,
+2012-06-25,,,,,,,,,,,,,,,,,,,Safari 6.0,,
+2012-07-25,,,,,,,,,,,,,,,,,,,OS X 10.8 Mountain Lion,,
+2012-10-26,,,,,,,,,,,,Internet Explorer 10,,,,,,,,,
+2012-10-26,,,,,,,,,,,,Windows 8リリース,,,,,,,,,
+2012-11-09,,,,,,,"SeaMonkey 2.14
+Gecko 17ベース",,,,,,,,,,,,,,
+2012-11-20,,,,,,"Firefox 17
+SPDY
+Opus Audio
+PDFビューワー",,,,,,,,,,,,,,,
+2013-01-10,,,,,,,,,,,,,,,,,,,,"Chrome (18-)24
+ECMAScript 6
+Media Stream AP
+Gamepad API
+CSSメディアクエリー
+TLS 1.1
+Do Not Track
+MathML
+THML5 datalist",
+2013-02-12,,,,,,,,,,,,,,,,Chromiumベースへの移行を発表,,,,,
+2013-02-21,,,,,Firefox OS 1.0リリース,,,,,,,,,,,,,,,,
+2013-02-21,,,,,,,,,,,,,,,,,,,,"Chrome 25
+Opus audio
+VP9 video
+Web Speech API",
+2013-03-26,,,,,,,,,,,,,,"Sleipnir 4
+WebKitからBlinkへ切り替え",,,,,,,
+2013-06-17,,,,,,,,,,,,,,,,,,,,"Chrome 28
+レンダリングエンジンBlink（WebKitからフォーク）
+CSS @supports",
+2013-07-02,,,,,,,,,,,,,,,,"Opera 15
+Blinkを採用",,,,,
+2013-09-04,,,,,,,,,,,,,,,,,,KDEリリースサイクル変更,,,
+2013-09-13,,,,,,,,,"Pale Moon 24.0
+Firefox 24からフォーク",,,,,,,,,,,,
+2013-09-17,,,,,,,"SeaMonkey 2.21
+Gecko 24ベース",,,,,,,,,,,,,,
+2013-09-17,,,,,,"Firefox 24
+IonMonkeyによるJS高速化
+WebRTC
+H.264
+Social API
+Notification API
+CSS Flexbox
+blink要素廃止
+asm.js",,,,,,,,,,,,,,,
+2013-10-17,,,,,,,,,,,,"Internet Explorer 11
+WebGL
+HTTP/2
+SPDY",,,,,,,,,
+2013-10-17,,,,,,,,,,,,Windows 8.1リリース,,,,,,,,,
+2013-10-22,,,,,,,,,,,,,,,,,,,Safari 7.0,,
+2013-10-22,,,,,,,,,,,,,,,,,,,OS X 10.9 Maverics,,
+2013-11-21,,,,,,,,,,,,,,Sleipnir 5,,,,,,,
+2014-01-14,,,,,,,,,,,,,,,,,,,,"Chrome (29-)32
+TLS 1.2
+HTTP/2
+QUIC
+Chrome Apps API
+マルウェア実行防止",
+2014-01-14,,,,,,,,,,,,,,,Adobe AIR 4.0,,,,,,
+2014-03-01,,,,,,,,,,,,,,,,My Opera終了,,,,,
+2014-03-04,,,,,,,,,,,,,,,,"Opera 20
+Chromium 33ベース
+ロッカージェスチャー",,,,,
+2014-05-29,,,,,,,,,,,,,,Sleipnir 6,,,,,,,
+2014-06-22,,,,,,"Firefox 31
+Web Audio API
+Javaプラグインの自動実行無効
+一般ユーザーでのFirefoxの自動更新
+SPDY 3.1
+VP9
+WebM
+ダウンロードファイル保護
+Beacon API",,,,,,,,,,,,,,,
+2014-09-07,,,,,,,"SeaMonkey 2.29
+Gecko 32ベース",,,,,,,,,,,,,,
+2014-10-16,,,,,,,,,,,,,,,,,,,"Safari 8.0
+APNG",,
+2014-10-16,,,,,,,,,,,,,,,,,,,OS X 10.10 Yosemite,,
+2015-01-20,,,,,,,,,,,,,,,,,,,,"Chrome (33-)40
+Custom Elements
+Ogg Opus
+Page Visibility API
+Speech Synthesis
+Shadow DOM v0
+showModalDialog API廃止
+SSL3無効",
+2015-01-27,,,,,,,,,,,,,,,,,Vivaldi Technologies設立,,,,
+2015-01-27,,,,,,,,,,,,,,,,,"Vivaldi Technical Preview 1
+Operaの元々のコンセプトを継承",,,,
+2015-01-27,,,,,,,,,,,,,,,,"Opera 27
+Chromium 40ベース",,,,,
+2015-04-24,,,,,,,,,,,,,,,,,,,Apple Watch発売,,
+2015-05-12,,,,,,"Firefox 38
+OpenH264
+EME
+Firefox Hello
+HTTP/2
+HTMLルビ
+BroadcastChannel API",,,,,,,,,,,,,,,
+2015-05-28,,,,,,,,,,,,,,,,,,,,,Brave Software設立
+2015-06-15,,,,,,,,,,,,"Edge 20
+最初のリリース
+レンダリングエンジンEdgeHTML
+HTML video/audio
+HTML canvas
+asm.js
+PDF表示
+ダウンロードマネージャ
+Darkテーマ
+Cortana統合",,,,,,,,,
+2015-06-29,,,,,,,,,,,,Windows 10リリース,,,,,,,,,
+2015-09-03,,,,,,,"SeaMonkey 2.35
+Gecko 38ベース",,,,,,,,,,,,,,
+2015-09-30,,,,,,,,,,,,,,,,,,,"Safari 9.0
+HTTP/2",,
+2015-09-30,,,,,,,,,,,,,,,,,,,OS X 10.11 El Capitan,,
+2015-12-06,,,,,,,,,,,,JavaScriptエンジン「ChakraCore」オープンソース化,,,,,,,,,
+2016-01-20,,,,,,,,,,,,,,,,,,,,,"Brave Electronベースの最初の開発版公開
+広告ブロック"
+2016-01-20,,,,,,,,,,,,,,,,,,,,"Chrome (41-)48
+NPAPIプラグイン廃止
+Push API",
+2016-02-02,,,,,,,,,,,,,,,,"Opera 35
+Chromium 48ベース
+ブックマークの同期",,,,,
+2016-03-08,,,,,,"Firefox 45
+Service Worker API
+Fetch API",,,,,,,,,,,,,,,
+2016-04-06,,,,,,,,,,,,,,,,,Vivaldi 1.0,,,,
+2016-05-02,,,,,,,,,,,"K-Meleon 76
+Gecko 38.8ベース",,,,,,,,,,
+2016-08-02,,,,,,,,,,,,"Edge 38
+VP9
+ES6 Regex
+Beacon API
+Fetch API",,,,,,,,,
+2016-09-20,,,,,,,,,,,,,,,,,,,"Safari 10.0
+NPAPIプラグイン無効
+Fetch API（10.1）
+CSS Grid（10.1）
+ECMAScript 2016
+ECMAScript 2017
+IndexedDB 2.0
+Custom Elements
+Gamepad API",,
+2016-09-20,,,,,,,,,,,,,,,,,,,macOS 10.12 Sierra,,
+2016-09-27,,,,,Firefox OS終了をアナウンス,,,,,,,,,,,,,,,,
+2016-11-22,,,,,,,,,"Pale Moon 27.0
+Gecko 38から変更をバックポート",,,,,,,,,,,,
+2016-12-22,,,,,,,"SeaMonkey 2.46
+Gecko 49ベース",,,,,,,,,,,,,,
+2017-01-25,,,,,,,,,,,,,,,,,,,,"Chrome (49-)56
+Shadow DOM v1
+Flash自動ブロック
+HTML5",
+2017-02-07,,,,,,,,,,,,,,,,"Opera 43
+Chromium 56ベース
+VPN",,,,,
+2017-03-07,,,,,,"Firefox 52
+タブのプロセス分離
+Widevine CDM
+FLAC
+WebAssenbly
+大部分のNPAPIプラグイン廃止
+WebExtensions（Chrome互換の拡張機能API）",,,,,,,,,,,,,,,
+2017-04-05,,,,,,,,,,,,,,Lunascape Phobe 0.8.7,,,,,,,
+2017-06-06,,,,,Mozilla Developer NetworkをMDN Web Docsへ改称、他ベンダー製品の情報も取り扱う,,,,,,,,,,,,,,,,
+2017-06-30,,,,,Mozilla Japan、WebDINO Japanへ改称,,,,,,,,,,,,,,,,
+2017-07-25,,,,,,,,,,,,,,,Adobe、Flashの開発及びサポート終了予定を公表,,,,,,
+2017-08-11,,,,,,,,,,,,"Edge 40
+WebRTC 1.0
+Service Workers
+EPUB",,,,,,,,,
+2017-09-19,,,,,,,,,,,,,,,,,,,"Safari 11.0
+トラッキング防止
+WebRTC
+Media Capture API
+Resource Timing API
+WebAssembly
+Service Workers（11.1）
+Payment Request API（11.1）
+Beacon API（11.1）
+ECMAScript 2018（11.1）",,
+2017-09-25,,,,,,,,,,,,,,,,,,,macOS 10.13 High Sierra,,
+2017-10-18,,,,,ブラウザ関連ドキュメントのMDN Web Docsへの集積にMicrosoft、Googleが合意,,,,,,,,,,,,,,,,
+2017-11-04,,,,,,,"SeaMonkey 2.49.1
+Gecko 52ベース",,,,,,,,,,,,,,
+2017-11-14,,,,,,"Firefox 57
+XULアドオン廃止
+タブのマルチプロセス動作",,,,,,,,,,,,,,,
+2018-01-04,,,,,,,,,,,,,,,,"Opera 50
+Chromium 63ベース
+マイニング防止
+APNG",,,,,
+2018-01-06,,,,,,,,"Waterfox 56.0.2
+XULアドオン対応版として継続",,,,,,,,,,,,,
+2018-01-23,,,,,,,,,,,,,,,,,,,,"Chrome (57-)64
+CSS Grid
+Media Session API
+WebAssembly
+IndexedDB 2.0
+ESModules
+Network Information API
+ResizeObservers
+Focus Management API",
+2018-04-30,,,,,,,,,,,,"Edge 42
+WebAssembly
+Notification API",,,,,,,,,
+2018-05-09,,,,,,"Firefox 60
+クレジットカード情報の自動入力
+HTTP Live Streaming
+グループポリシー対応
+Web Auth API",,,,,,,,,,,,,,,
+2018-06-01,,,,,,,,,,,,,,,,,,,,,テスト版リリース
+2018-07-15,Lynx 2.8.9,,,,,,,,,,,,,,,,,,,,
+2018-09-17,,,,,,,,,,,,,,,,,,,"Safari 12.0
+NPAPIプラグイン廃止
+Do Not Track廃止",,
+2018-09-24,,,,,,,,,,,,,,,,,,,macOS 10.14 Mojave,,
+2018-09-26,,,,,,,,,,,,,,,,,Vivaldi 2.0,,,,
+2018-12-11,,,,,,,,,,,,,,,"Adobe AIR 32.0
+Adobeでの最終版
+移行はHarman Internationalに移管",,,,,,
+2019-01-23,,,,,,,,,,,,,,,,"Opera 58
+Chromium 71ベース",,,,,
+2019-01-29,,,,,,,,,,,,,,,,,,,,"Chrome (65-)72
+CSS Paint API
+Server Timing API
+Credential Management API
+HTTPを「安全でない」と扱うようになった
+Page Lifecycle API
+Payment Handler API
+CSS Scroll Snap
+Web Locks API
+AV1
+User Activation API
+TLS 1.0/1.1廃止",
+2019-05-21,,,,,,,,,,,,"Edge 44
+WebP
+Web Authentication API
+EPUB対応廃止",,,,,,,,,
+2019-06-01,,,,,,,,,,,,,,,,,,,,,Rust実装による広告ブロックの実装開始
+2019-06-09,,,,,,"Firefox 68
+WebP
+自動再生音声のブロック
+Windows Hello対応
+AV1
+マイニングブロック
+トラッキング防止",,,,,,,,,,,,,,,
+2019-09-19,,,,,,,,,,,,,,,,,,,"Safari 13.0
+WebSQL廃止
+レガシーなSafari拡張機能の廃止",,
+2019-10-07,,,,,,,,,,,,,,,,,,,macOS 10.15 Catalina,,
+2019-11-13,,,,,,,,,,,,,,,,,,,,,"Brave 1.0
+Chromiumベース
+Android、iOS、Windows 10、macOS、Linuxに対応"
+2020-01-08,,,,,,,,,,,,,,,,"Opera 66
+Chromium 79ベース",,,,,
+2020-01-15,,,,,,,,,,,,"Edge 79
+Chromiumベースに移行
+Chromium 79ベース",,,,,,,,,
+2020-02-04,,,,,,,,,,,,,,,,,,,,"Chrome (73-)80
+HTTP/3
+CSS transition events
+Content Picker API
+WebVR 1.1 API廃止
+CSS Properties and Values API
+Native File System
+Wake Lock API
+FTP廃止",
+2020-02-28,,,,,,,"SeaMonkey 2.53.1
+Gecko 60ベース",,,,,,,,,,,,,,
+2020-04-22,,,,,,,,,,,,,,,,,Vivaldi 3.0,,,,
+2020-05-27,,,,,,,,,,,,"Edge 44
+EdgeHTMLベースの最終版",,,,,,,,,
+2020-06-30,,,,,,"Firefox 78
+Picture-in-Picture
+Pocket",,,,,,,,,,,,,,,
+2020-09-16,,,,,,,,,,,,,,,,,,,"Safari 14.0
+WebExtensions
+Flash対応終了
+WebP
+HTTP/3",,
+2020-11-12,,,,,,,,,,,,,,,,,,,macOS 11 Big Sur,,
+2021-01-01,,,,,,,,,,,,,,,Flash終了,,,,,,
+2021-01-19,,,,,,,,,,,,,,,,,,,,"Chrome (81-)88
+Content Indexing API
+TLS 1.0/1.1廃止
+危険なダウンロードのブロック
+拡張機能Manifest V3",
+2021-01-21,,,,,,,,,,,,"Edge 88
+Chromium 88ベース",,,,,,,,,
+2021-01-22,,,,,,,SeaMonkey 2.53.6,,,,,,,,,,,,,,
+2021-02-02,,,,,,,,,,,,,,,,"Opera 74
+Chromium 88ベース",,,,,
+2021-03-26,,,,,,,,,,,Epiphany 40,,,,,,,,,,
+2021-06-09,,,,,,,,,,,,,,,,,Vivaldi 4.0,,,,
+2021-08-10,,,,,,"Firefox 91
+HTTP/3
+HTTPS Onlyモード
+Flashサポートの完全終了
+Event Timing API
+Windowsシングルサインオン",,,,,,,,,,,,,,,
+2021-09-20,,,,,,,,,,,,,,,,,,,"Safari 15.0
+WebGL 2
+MediaSession API",,
+2021-10-05,,,,,,,,,,,,Windows 11リリース,,,,,,,,,
+2021-10-19,,,,,,,,"Waterfox G4.0.0.1
+Gecko 91.3ベース",,,,,,,,,,,,,
+2021-10-25,,,,,,,,,,,,,,,,,,,macOS 12 Monterey,,
+2021-12-02,,,,,,,,,,,,,,,,,Vivaldi 5.0,,,,
+2022-01-04,,,,,,,,,,,,,,,,,,,,"Chrome (89-)97
+Serial API
+WebXR Depth Sensing API
+DNS over HTTPS
+HTTPS優先モード",
+2022-01-06,,,,,,,,,,,,"Edge 96
+Chromium 96ベース",,,,,,,,,
+2022-01-19,,,,,,,,,,,,,,,,"Opera 83
+Chromium 97ベース",,,,,
+2022-03-02,,,,,,,SeaMonkey 2.53.11,,,,,,,,,,,,,,
+2022-06-28,,,,,,"Firefox 102
+AVIF
+RLBox
+サイト分離",,,,,,,,,,,,,,,
+2022-09-12,,,,,,,,,,,,,,,,,,,Safari 16.0,,
+2022-09-28,,,,,,,,"Waterfox G5.0
+Gecko 102ベース",,,,,,,,,,,,,
+2022-10-24,,,,,,,,,,,,,,,,,,,macOS 13 Ventura,,
+2022-11-22,,,,,,,,"Waterfox Classic 2022.11
+最終版",,,,,,,,,,,,,
+2023-01-10,,,,,,,,,,,,,,,,,,,,"Chrome (98-)109
+TLS 1.0/1.1完全廃止
+Local Fonts Access API
+Speculation Rules API",
+2023-01-12,,,,,,,,,,,,"Edge 109
+Chromium 109ベース",,,,,,,,,
+2023-01-20,,,,,,,SeaMonkey 2.53.15,,,,,,,,,,,,,,
+2023-02-01,,,,,,,,,,,,,,,,"Opera 95
+Chromium 109ベース",,,,,
+2023-02-22,,,,,,,,,,,,,,,,"Opera 96
+Chromium 110ベース",,,,,
+2023-03-01,,,,,,,,,,,,,,,,,,,,Chrome 111,
+2023-04-18,,,,,,,,,,,,,,,,,Vivaldi 6.0,,,,
+2023-05-05,iCab 6.2.1,,,,,,,,,,,,,,,,,,,,
+2023-05-11,,,,,,,,,,,,,,,,,,Konqueror 23.04.1,,,
+2023-05-16,,,,,,,,,Pale Moon 32.2.0,,,,,,,,,,,,
+2023-06-02,,,,,,,,,,,,"Edge 114
+Chromium 114ベース",,,,,,,,,
+2023-06-05,,,,,,,,,,,,,,,,,,,,,Brave 1.52.122
+2023-06-06,,,,,,"Firefox 114
+拡張機能Manifest V3
+Firefox Relay連携
+",,,,,,,,,,,,,,,
+2023-06-07,,,,,,,,,,,,,,Lunascape Phobe 0.25.0,,,,,,,
