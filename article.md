@@ -692,6 +692,9 @@ Thunderbirdの法人利用
 
 
 
+# 注意書き
+
+本書の記述は参考文献を含む公開情報に基づきますが、紙幅の都合による省略や、筆者の主観的解釈が含まれます。読み物としてではなく事実関係を正確に把握するための資料として参考にする際は、本書の記述を直接は参照せず、一次情報を探すためのキーワードを拾うための資料集としてお使いいただくことをお勧めします。
 
 
 
@@ -804,3 +807,27 @@ https://gigazine.net/news/20230721-thunderbird-android-k-9-mail-security-audit/#
 
 秋葉原でメイドさんがWebブラウザ「Firefox」を配布（ITpro）
 https://xtech.nikkei.com/it/article/NEWS/20060710/242844/
+
+# 奥付
+
+Moezilla Historica
+
+* 発行：もえじら組
+* 初版：2024年12月30日
+* 著者：Piro/結城洋志
+* 撮影協力：
+  * つぴ（モデル）
+  * 秋の「」（モデル）
+  * コスナビ
+  * 麗Yer's
+  * studio ARIA
+  * ZEUS NIGHTCLUB
+  * アートアクアリウム美術館GINZA
+  * aiRoute Studio
+  * Whoopee Studio
+  * WebDINO Japan
+  * ラグーナテンボス
+  * コスプレスタジオ Booty東京
+  * studio continue09
+  * studio Espero
+
