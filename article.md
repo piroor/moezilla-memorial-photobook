@@ -137,7 +137,7 @@
 
 ※Geckoベースでの再出発：Mozillaはブラウザーのレンダリングエンジンを刷新したが、すべての実装を置き換えたわけではなく、ネットワークとの通信周りのモジュールなどは、元の物をそのまま使い続けた。現在でも、Firefoxの中にはGeckoエンジン導入以前から引き継いだコードが部分的に残っている。
 
-※XUL：Extensible User-interface Languageの略。XMLの書式に則り、<menu>や<menupopup>、<menuitem>といったUI記述専用の要素型でUIの構造を定義する。「ズール」と読み、映画ゴーストバスターズ作中に登場した「門の神」ズールと同じ発音であることから、それにちなんだ
+※XUL：Extensible User-interface Languageの略。XMLの書式に則り、<menu>や<menupopup>、<menuitem>といったUI記述専用の要素型でUIの構造を定義する。「ズール」と読み、映画ゴーストバスターズ作中に登場した「門の神」ズールと同じ発音であることから、それにちなんだネーミングがプロジェクト内の他の場面でも度々見られた。
 
 ※Web技術に基づくアプリケーション：実際には、RDF（Rsource Definition Framework）、Mozilla固有の技術であるXBL（XML Binding Language）、ローカルファイルの読み書きなど既存のWeb技術ではカバー不可能な部分を担うXPCOMと名付けられたネイティブコンポーネント群なども使用されていた。
 
