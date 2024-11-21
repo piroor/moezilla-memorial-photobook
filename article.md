@@ -720,9 +720,6 @@ https://pc.watch.impress.co.jp/docs/article/981125/aol.htm
 オープンソースの誕生（Shuji Sado）
 https://shujisado.com/2017/05/17/612085/
 
-加藤誠氏のプロフィール（LinkedIn）
-https://www.linkedin.com/in/makoto-kato/
-
 resignation and postmortem.（nomo zilla）
 https://www.jwz.org/gruntle/nomo.html
 
