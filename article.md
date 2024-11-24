@@ -851,14 +851,7 @@ Moezilla Historica
 * 撮影協力：
   * つぴ（モデル）
   * 秋の「」（モデル）
-  * コスナビ
-  * 麗Yer's
-  * studio ARIA
-  * ZEUS NIGHTCLUB
-  * アートアクアリウム美術館GINZA
-  * aiRoute Studio
-  * Whoopee Studio
-  * WebDINO Japan
+
   * ラグーナテンボス
   * コスプレスタジオ Booty東京
   * studio continue09
