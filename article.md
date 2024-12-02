@@ -277,7 +277,7 @@
 
 ※堅いビジネスとWeb：現実との接続が強い事業会社や行政においては、物事が進む速度は遅く、プロジェクトが数年単位に渡ることも多い。Webの技術発展の速度では、その技術を採用したプロジェクトよりも先に技術の方が寿命を迎えてしまうことがある。
 
-※GoogleによるMozillaへの支援：ブラウザーのUI上のWeb検索機能の既定の検索エンジンとしてGoogleを設定することへの対価という名目で多額の広告費用が支払われたが、これは当時のMozilla製品のシェアからは破格だった。Chrome登場後の2024年現在も、これはMozillaにとって最大の収益源である。なお、2020年に米司法省がGoogleに対して提起した反トラスト法訴訟では、これが他社検索エンジンの締め出しにあたるとして、GoogleからMozillaへの金銭支払いの停止を求めている。
+※GoogleによるMozillaへの支援：ブラウザーのUI上のWeb検索機能の既定の検索エンジンとしてGoogleを設定することへの対価という名目で多額の広告費用が支払われたが、これは当時のMozilla製品のシェアからは破格だった。Chrome登場後の現在も、これはMozillaにとって最大の収益源である。なお、2020年に米司法省がGoogleに対して提起した反トラスト法訴訟では、これが他社検索エンジンの締め出しにあたるとして、GoogleからMozillaへの金銭支払いの停止を求めている。
 
 ※APIの解放：具体的には、マルウェアやフィッシング詐欺の遮断機能が該当する。これらの機能が用いる既知の危険なWebサイトの一覧は、元々はGoogleツールバーのSafe Browsing機能のための物だったが、後にFirefox 2.0において組み込みの機能となった後も、そのままSafe Browsing用のリストを使用している。
 
@@ -592,8 +592,11 @@
 
 
 ■理想と現実の狭間で
-　Firefoxは開発母体が非営利の組織ということもあり、思想性の強いブラウザーと見られることがある。確かにそのような面はあるものの、実際には思想一辺倒で実用性を軽視しているわけではない。むしろ、MozillaはNetscapeから解き放たれて以後、理想と実用性の両立という難題に正面から向き合い続けていると言える。理想に走りすぎて実用性を疎かにしたブラウザーでは一般ユーザーの常用の選択肢とならず、Webサービスから「閲覧対象外」と切り捨てられ、社会に対して存在感を示せなくなるからである。
-　ChromeほかChromium系ブラウザーが市場を席巻し、事実上の標準と見なされるようになった現在では、Firefoxも「Chromeに合わせる」ことが求められる場面が度々生じている。理想と実用の間でどのように落とし所を見つけ、存在感を示していくことができるのか。インターネットが、ビッグテックの都合ばかりに振り回されることなく、誰もが自由に使える開かれたものであり続けられるように。WebKitに由来しないエンジンを持つ最後の独立系ブラウザーベンダーであるMozillaの動向には、今後も注視し続ける価値があるのは間違い無い。
+　Firefoxは開発母体が非営利の組織ということもあり、思想性の強いブラウザーと見られることがある。確かにそのような面はあるものの、実際には思想一辺倒で実用性を軽視しているわけではない。むしろ、MozillaはNetscapeから解き放たれて以後、理想と実用性の両立という難題に正面から向き合い続けていると言える。理想に走りすぎて実用性を疎かにしたブラウザーでは一般ユーザーの常用の選択肢とならず、Webサービスから「対象外」と切り捨てられ、社会に対して存在感も発言力も示せなくなるからだ。
+　ChromeほかChromium系ブラウザーが市場を席巻し、事実上の標準と見なされるようになった現在では、Firefoxも「Chromeに合わせる」ことが求められる場面が度々生じている。理想と実用の間でどのように落とし所を見つけ、存在感を示しながら生き残っていくことができるのか（※）。インターネットが、ビッグテックの都合ばかりに振り回されることなく、誰もが自由に使える開かれたものであり続けられるように。WebKitに由来しないエンジンを持つ最後の独立系ブラウザーベンダーであるMozillaの動向には、今後も注視し続ける必要がある。
+
+
+※Mozillaの生き残り方：この点で最大の懸念が収益源の確保である。Mozillaの最大の収益源は現在もGoogleからの広告収入となっているが、将来に渡っての安定財源ではないことから、有償サービスの自社運営を試みるなど別の収益源の模索が続いている。
 
 
 
@@ -827,9 +830,6 @@ https://japan.cnet.com/article/20111747/
 Googleの技術者が語る「Firefoxへの深いかかわり」（ITpro）
 https://xtech.nikkei.com/it/article/NEWS/20060501/236661/
 
-グーグルに帝国解体の危機、米司法省がクローム売却も要求（MIT Tech Review）
-https://www.technologyreview.jp/s/350500/googles-antitrust-gut-punch-and-the-trump-wild-card/
-
 AppleのSafari開発の経緯を語った投稿（重箱の隅/X.com）
 https://x.com/mshk/status/1538557173156151296
 
@@ -880,6 +880,18 @@ https://postd.cc/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
 
 The whole web at maximum FPS: How WebRender gets rid of jank（Mozilla Hacks - the Web developer blog）
 https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/
+
+グーグルに帝国解体の危機、米司法省がクローム売却も要求（MIT Tech Review）
+https://www.technologyreview.jp/s/350500/googles-antitrust-gut-punch-and-the-trump-wild-card/
+
+グーグル・ペイメントの禁止はMozillas Firefoxを殺すのか？（Tuta）
+https://tuta.com/ja/blog/will-ban-on-google-payments-kill-mozilla-firefox
+
+Firefoxの開発元Mozilla、広告効果測定企業を買収　プライバシー保護への取り組みに疑問が湧く（AdGuard）
+https://adguard.com/ja/blog/firefox-privacy-ad-targeting-anonym.html
+
+MozillaはFirefoxへのユーザーの愛を取り戻せるのか？（YAMDAS現更新履歴）
+https://yamdas.hatenablog.com/entry/20240818/love-firefox-again
 
 Mozilla Minotaur Project Formally Launched（MozillaZine）
 http://www.mozillazine.org/articles/article3000.html
